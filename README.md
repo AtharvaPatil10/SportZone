@@ -6,7 +6,7 @@ The system is built using a **microservices architecture** with an **API Gateway
 
 ---
 
-## Features
+## Features 
 
 - **Real-Time Booking**
   - Instant venue availability checks
