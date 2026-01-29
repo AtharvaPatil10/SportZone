@@ -6,11 +6,7 @@ The system is built using a **microservices architecture** with an **API Gateway
 
 ---
 
-<<<<<<< HEAD
-## Features 
-=======
 ## Features
->>>>>>> 93eb1e8 (first commit)
 
 - **Real-Time Booking**
   - Instant venue availability checks
@@ -78,7 +74,3 @@ The system is built using a **microservices architecture** with an **API Gateway
 ## License
 
 This project is licensed under the MIT License.
-<<<<<<< HEAD
-=======
-
->>>>>>> 93eb1e8 (first commit)
